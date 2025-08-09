@@ -1,0 +1,15 @@
+Write a {adjective} story about a {animal} who {action}.
+Design a {adjective} logo for a {business_type}.
+Explain {concept} to a {audience}.
+Create a {adjective} marketing campaign for a {business_type}.
+Write a {adjective} poem about a {animal}.
+Develop a {adjective} app for {audience}.
+Teach {concept} using {adjective} examples.
+Create a {adjective} character who is a {animal} that {action}.
+Build a {adjective} website for a {business_type}.
+Write a {adjective} tutorial on {concept} for {audience}.
+Design a {adjective} game featuring a {animal}.
+Create a {adjective} presentation about {concept}.
+Write a {adjective} blog post about a {animal} who {action}.
+Develop a {adjective} course on {concept} for {audience}.
+Create a {adjective} advertisement for a {business_type}.
